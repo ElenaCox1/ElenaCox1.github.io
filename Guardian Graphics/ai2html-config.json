@@ -1,0 +1,21 @@
+{	
+	"fonts": [
+        {
+            "aifont": "MyriadPro-Regular",
+            "family": "MyriadPro",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "HelveticaNeue",
+            "family": "HelveticaNeue",
+            "weight": "400",
+            "style": ""
+        }
+
+
+
+        
+
+    ]
+}
