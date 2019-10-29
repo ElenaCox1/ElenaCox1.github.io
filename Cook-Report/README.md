@@ -1,4 +1,4 @@
-<h1><a href="https://elenacox1.github.io/Cook-Report/">Examining Competitive House Races in the U.S.</a><h1>
+<h1><a href="https://elenacox1.github.io/Cook-Report/">Examining Competitive House Races in the U.S.</a></h1>
 
 As part of my master's project, I'm looking at out-of-state campaign donations to competitive House races from 2010 to 2018. To determine which races to look at, I looked at the <a href="https://cookpolitical.com/ratings/house-race-ratings">Cook Political Report</a>, a non-partisan organization that analyzes U.S. political campaigns. The Cook Report was founded in 1984 by Charlie Cook, a former Capitol Hill staffer, campaign consultant, pollster and political action committee staff member.
 
